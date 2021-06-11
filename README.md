@@ -27,13 +27,13 @@ You have to fill some informations on `_config.yml` to customize your site.
 
 ```
 # Site settings
-description: A blog about lorem ipsum dolor sit amet
+description: Portfolio of Sam Kwon
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://localhost:3000" # the base hostname & protocol for your site
 
 # User settings
 username: samuski
-user_description: Anon Developer at Lorem Ipsum Dolor
+user_description: work in progress
 user_title: Developer
 email: samuski30@gmail.com
 twitter_username: 
